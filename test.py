@@ -1,5 +1,5 @@
-a = 2
-b = 3
+a = 6
+b = 2
 
 
 print("div", a/b)
